@@ -78,7 +78,7 @@ npm start
 ```
 
 
-
+---
 
 🌐 Live Demo
  deployed on Netlify.
