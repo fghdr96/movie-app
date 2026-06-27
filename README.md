@@ -34,6 +34,7 @@ Built with **React**, **Material UI**, **Axios**, and **Redux Toolkit**, this pr
 
 ## 📂 Folder Structure
 
+```
 movie-app/
 ├── public/
 ├── src/
@@ -45,6 +46,7 @@ movie-app/
 ├── .gitignore
 ├── package.json
 └── README.md
+```
 ---
 
 ## ⚙️ Setup Instructions
@@ -81,6 +83,8 @@ npm start
 🌐 Live Demo
  deployed on Netlify.
 
+---
+
 🧠 Author
 Farnaz  
 Frontend Developer | React Enthusiast
@@ -88,6 +92,6 @@ Frontend Developer | React Enthusiast
 💼 GitHub: https://github.com/fghdr96
 
 
-
+---
 📝 License
 This project is open source and available under the MIT License.
