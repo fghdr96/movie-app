@@ -49,6 +49,7 @@
     ]
   },
   "devDependencies": {
-    "ajv": "^7.2.4"
+    "ajv": "^7.2.4",
+    "react-scripts": "^5.0.1"
   }
 }
