@@ -6,6 +6,14 @@ Built with **React**, **Material UI**, **Axios**, and **Redux Toolkit**, this pr
 
 ---
 
+## 🌐 Live Demo
+
+The project is deployed on Netlify and available here:
+
+🔗 **https://fgh-movie-app.netlify.app** 
+
+---
+
 ## 🚀 Features
 
 - 🔍 **Search** for movies, TV shows, and people  
@@ -80,10 +88,8 @@ npm start
 
 ---
 
-🌐 Live Demo
- deployed on Netlify.
 
----
+
 
 🧠 Author
 Farnaz  
